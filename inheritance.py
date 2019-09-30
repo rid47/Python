@@ -22,3 +22,6 @@ sparrow_obj.size()
 
 bird_obj = Bird()
 bird_obj.flight()
+
+# polymorphism: Having many forms, 2 different classes have same method
+# https://www.geeksforgeeks.org/polymorphism-in-python/
